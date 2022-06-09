@@ -1,0 +1,54 @@
+8
+
+dir
+6551
+svn+ssh://none.cs.umass.edu/svn/projects/benchlab/BenchLab-Client/trunk/eclipse-settings
+svn+ssh://none.cs.umass.edu/svn/projects
+
+
+
+2011-03-31T15:26:51.052100Z
+6551
+cecchet
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0be0c1e4-bb1f-0410-908b-de723fce08e9
+
+codeformatter.xml
+file
+
+
+
+
+2011-03-31T15:25:53.281000Z
+1604b89ab078a0ff9c8d427fade4b40e
+2011-03-31T15:26:51.052100Z
+6551
+cecchet
+has-props
+
+codetemplates.xml
+file
+
+
+
+
+2011-03-31T15:25:12.718000Z
+3c7ab99fd104aad83e237800edb6e9bc
+2011-03-31T15:26:51.052100Z
+6551
+cecchet
+has-props
+
